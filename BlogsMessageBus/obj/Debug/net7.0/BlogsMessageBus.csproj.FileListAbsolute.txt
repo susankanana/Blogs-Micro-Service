@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\BlogsMS\BlogsMessageBus\bin\Debug\net7.0\BlogsMessageBus.deps.json
+C:\Users\user\source\repos\BlogsMS\BlogsMessageBus\bin\Debug\net7.0\BlogsMessageBus.dll
+C:\Users\user\source\repos\BlogsMS\BlogsMessageBus\bin\Debug\net7.0\BlogsMessageBus.pdb
+C:\Users\user\source\repos\BlogsMS\BlogsMessageBus\obj\Debug\net7.0\BlogsMessageBus.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BlogsMS\BlogsMessageBus\obj\Debug\net7.0\BlogsMessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BlogsMS\BlogsMessageBus\obj\Debug\net7.0\BlogsMessageBus.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BlogsMS\BlogsMessageBus\obj\Debug\net7.0\BlogsMessageBus.AssemblyInfo.cs
+C:\Users\user\source\repos\BlogsMS\BlogsMessageBus\obj\Debug\net7.0\BlogsMessageBus.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BlogsMS\BlogsMessageBus\obj\Debug\net7.0\BlogsMessageBus.dll
+C:\Users\user\source\repos\BlogsMS\BlogsMessageBus\obj\Debug\net7.0\refint\BlogsMessageBus.dll
+C:\Users\user\source\repos\BlogsMS\BlogsMessageBus\obj\Debug\net7.0\BlogsMessageBus.pdb
+C:\Users\user\source\repos\BlogsMS\BlogsMessageBus\obj\Debug\net7.0\ref\BlogsMessageBus.dll
